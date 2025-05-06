@@ -1,0 +1,12 @@
+npm init
+package name: default sama nama folder
+tinggal enter
+entry point: misal jadi app.js
+author: nama masing2
+license: MIT
+
+Set-ExecutionPolicy RemoteSigned
+
+http://localhost:8000/home -> path
+
+http://localhost:8000/>menu=home -> query
