@@ -1,0 +1,14 @@
+{
+  "name": "01-basic",
+  "version": "1.0.0",
+  "main": "app01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maresha",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
